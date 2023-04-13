@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sflpainting/static/css/main.d7da34c1.css",
-    "main.js": "/sflpainting/static/js/main.6e204c9f.js",
+    "main.js": "/sflpainting/static/js/main.fe867f59.js",
     "static/media/video.mp4": "/sflpainting/static/media/video.d73b33965ea281110550.mp4",
     "static/media/svg-1.svg": "/sflpainting/static/media/svg-1.e561b392adb80b48afa82de2907953ed.svg",
     "index.html": "/sflpainting/index.html",
     "main.d7da34c1.css.map": "/sflpainting/static/css/main.d7da34c1.css.map",
-    "main.6e204c9f.js.map": "/sflpainting/static/js/main.6e204c9f.js.map"
+    "main.fe867f59.js.map": "/sflpainting/static/js/main.fe867f59.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.6e204c9f.js"
+    "static/js/main.fe867f59.js"
   ]
 }
